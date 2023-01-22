@@ -1,0 +1,9 @@
+#keret {
+    background-color: wheat;
+    border-radius: 5px;
+    box-shadow: 15px 15px rgb(193, 135, 27);
+}
+legend {
+    font-size: 25px;
+    font-weight: bold;
+}
